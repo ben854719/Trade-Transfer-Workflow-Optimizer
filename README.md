@@ -147,6 +147,24 @@ Design a multi-step LangGraph that processes incoming text and generates structu
 
 ## Data Referral:
 
+- Dataset title: MarketWatch
+- Links: https://www.marketwatch.com/investing/index/gsptse/download-data?startDate=9/7/2025&endDate=10/07/2025&countryCode=ca
+
+- Dataset title: Yahoo Financial
+- Links: https://ca.finance.yahoo.com/news/bank-montreal-absolute-tear-too-003000275.html
+
+- Dataset title: Yahoo Financial
+- Links: https://ca.finance.yahoo.com/news/gold-stocks-rbc-picks-winners-as-metal-hits-us4000-for-first-time-151652689.html
+
+- Dataset title: Simplewallet ST.
+- Links: https://simplywall.st/stocks/ca/banks/tsx-cm/canadian-imperial-bank-of-commerce-shares/news/is-cibcs-recent-25-rally-justified-after-strong-quarterly-ea
+
+- Dataset title: Simplewallet ST.
+- Links: https://simplywall.st/stocks/ca/banks/tsx-bns/bank-of-nova-scotia-shares/news/scotiabank-tsxbns-valuation-in-focus-after-new-bond-offering
+
+- Dataset title:  Simplewallet ST.
+- Links: https://simplywall.st/stocks/ca/banks/tsx-na/national-bank-of-canada-shares/news/a-fresh-look-at-national-bank-of-canada-tsxna-valuation-foll
+
 
 
 
