@@ -55,7 +55,7 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 - Matplotlib
 - Numpy
 
-## RS256 Asymmetric Encryption Setup (JWT-based):
+## RS256 Asymmetric Encryption Setup:
 
 - RS256 is an RSA signature algorithm used with JSON Web Tokens (JWT). It uses a private key to sign data and a public key to verify it.
 
