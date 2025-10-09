@@ -34,6 +34,7 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 
 ## Prerequistes:
 
+- Cryptography
 - Python
 - Pandas
 - PyTorch
