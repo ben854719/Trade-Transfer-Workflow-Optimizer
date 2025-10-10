@@ -2,7 +2,7 @@
 
 ## Objective
 
-This application uses an AI powered algorithm to analyze client stock portfolios with high precision, leveraging Pandas for data modeling and cleaning, and securing sensitive financial data through RS256 asymmetric encryption. Users can instantly access their portfolio by scanning a QR code from their TV or their computer, while an Avatar driven Agentic AI assistant provides personalized, human-like guidance. Key performance metrics include ≥95% portfolio analysis accuracy, <2 – second data latency, 100% encryption compliance, 80% user engagement with the avatar, and 98% cross-device QR scan success—delivering a secure, intelligent, and engaging portfolio experience.
+This application showcases an AI-powered portfolio analysis tool designed to deliver secure, emotionally intelligent insights across devices. Leveraging Pandas for data modeling and RS256 encryption for financial data protection, it features an avatar-driven assistant that guides users with human-like clarity. The graph compares actual vs. predicted close prices, enriched with sentiment overlays—“Confident,” “Cautious,” and “Surprised”—based on model accuracy. The AI delivers high-precision insights into asset allocation, sector exposure, and performance trends using advanced algorithms, while adapting its guidance dynamically based on user behavior and portfolio context. With ≥95% analysis precision, <2-second latency, 100% encryption compliance, and 80% avatar engagement.
 
 ## Video of the project:
 
@@ -20,10 +20,6 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 
 - Protects sensitive financial information with secure, industry-standard encryption for data transmission and storage.
 
-##  QR Code Access:
-
-- Allows users to scan a QR code from their TV or computer to instantly access their portfolio view.
-  
 ## Interactive Avatar Agentic AI Assistant:
 
 -  Provides personalized, human-like guidance to help users interpret their portfolio and explore actionable insights.
@@ -43,7 +39,6 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 - Seaborn
 - RS256 Asymmetric Encruption
 - JSON
-- QR Code
 - LangGraph
 - Avatar AI
 - Agentic AI
@@ -61,10 +56,6 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 ## RS256 Asymmetric Encryption Setup:
 
 - RS256 is an RSA signature algorithm used with JSON Web Tokens (JWT). It uses a private key to sign data and a public key to verify it.
-
-## QR Code:
-
-- After generating your portfolio data, create a QR code that links to a local file or static message. Display the QR code on a TV or computer screen, and users can scan it with their phone to instantly view the portfolio content or download the file.
 
  ## LangGraph: Orchestrating Avatar Behavior:
  
