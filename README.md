@@ -40,6 +40,7 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 - PyTorch
 - Matplotlib
 - Numpy
+- Seaborn
 - RS256 Asymmetric Encruption
 - JSON
 - QR Code
@@ -55,6 +56,7 @@ This application uses an AI powered algorithm to analyze client stock portfolios
 - Pandas
 - Matplotlib
 - Numpy
+- Seaborn
 
 ## RS256 Asymmetric Encryption Setup:
 
