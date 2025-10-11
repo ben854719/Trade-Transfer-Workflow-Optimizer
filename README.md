@@ -70,7 +70,7 @@ This application showcases an AI-powered portfolio analysis tool designed to del
 
 ## Create and Download Your Avatar:
 
-- Use Krikey AI to design your avatar.
+- Use insmind to design your avatar.
 - Export it  image (PNG/JPEG) depending on your demo style.
   
 ## Upload the Avatar to Colab:
