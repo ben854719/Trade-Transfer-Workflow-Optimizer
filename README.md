@@ -2,7 +2,7 @@
 
 ## Objective
 
-This application showcases an AI-powered portfolio analysis tool designed to deliver secure, emotionally intelligent insights across devices. Leveraging Pandas for data modeling and RS256 encryption for financial data protection, it features an avatar-driven assistant that guides users with human-like clarity. The graph compares actual vs. predicted close prices, enriched with sentiment overlays—“Confident,” “Cautious,” and “Surprised”—based on model accuracy. The AI delivers high-precision insights into asset allocation, sector exposure, and performance trends using advanced algorithms, while adapting its guidance dynamically based on user behavior and portfolio context. With ≥95% analysis precision, <2-second latency, 100% encryption compliance, and 80% avatar engagement.
+This application showcases an AI-powered portfolio analysis tool designed to deliver secure, emotionally intelligent insights. Leveraging Pandas for data modeling and RS256 encryption for financial data protection, it features an avatar-driven assistant that guides users with human-like clarity. The graph compares actual vs. predicted close prices, enriched with sentiment overlays—“Confident,” “Cautious,” and “Surprised”—based on model accuracy. The AI delivers high-precision insights into asset allocation, sector exposure, and performance trends using advanced algorithms, while adapting its guidance dynamically based on user behavior and portfolio context. With ≥95% analysis precision, <2-second latency, 100% encryption compliance, and 80% avatar engagement.
 
 ## Video of the project:
 
