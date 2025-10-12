@@ -42,6 +42,7 @@ This application showcases an AI-powered portfolio analysis tool designed to del
 - LangGraph
 - Avatar AI
 - Agentic AI
+- OpenCV
 - MCP Server
 
 ## Python: Required for all major components.
