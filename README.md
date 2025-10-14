@@ -6,6 +6,8 @@ This application showcases an AI-powered portfolio analysis tool designed to del
 
 ## Video for the project:
 
+[YouTub](https://youtu.be/Lwz7VxuqY3M)
+
 ## Features:
 
 ## AI-Powered Stock Portfolio Analysis:
