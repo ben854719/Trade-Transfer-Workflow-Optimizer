@@ -42,6 +42,7 @@ This application showcases an AI-powered portfolio analysis tool designed to del
 - RS256 Asymmetric Encruption
 - JSON
 - LangGraph
+- Gemini 2.5 Flash
 - Avatar AI
 - Agentic AI
 - OpenCV
