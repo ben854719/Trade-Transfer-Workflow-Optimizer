@@ -39,7 +39,7 @@ This application showcases an AI-powered portfolio analysis tool designed to del
 - Matplotlib
 - Numpy
 - Seaborn
-- RS256 Asymmetric Encruption
+- RS256 Asymmetric Encryption
 - JSON
 - LangGraph
 - Gemini 2.5 Flash
