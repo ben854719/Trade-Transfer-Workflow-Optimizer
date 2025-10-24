@@ -30,7 +30,7 @@ This application showcases an AI-powered portfolio analysis tool designed to del
 
 - Ensure you have the following software and frameworks installed.
 
-## Prerequistes:
+## Prerequisites:
 
 - Cryptography
 - Python
